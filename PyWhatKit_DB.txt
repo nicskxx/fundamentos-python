@@ -1,0 +1,80 @@
+Date: 5/8/2026
+Time: 16:47
+Phone Number: +55 19 99887-8978
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:51
+Phone Number: +55 19 99995-3728
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:52
+Phone Number: +55 19 99995-3728
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:54
+Phone Number: +55 19 99887-8978
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:54
+Phone Number: +55 19 99887-8978
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:55
+Phone Number: +55 19 99887-8978
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:55
+Phone Number: +55 19 99887-8978
+Message: Olá! Teste enviado automaticamente pelo PyCharm e Python.
+--------------------
+Date: 5/8/2026
+Time: 16:57
+Phone Number: +55 19 99755-2455
+Message: Mensagem rápida via Python!
+--------------------
+Date: 5/8/2026
+Time: 16:57
+Phone Number: +55 19 99755-2455
+Message: Mensagem rápida via Python!
+--------------------
+Date: 5/8/2026
+Time: 16:58
+Phone Number: +55 19 99755-2455
+Message: Mensagem rápida via Python!
+--------------------
+Date: 5/8/2026
+Time: 17:0
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 1)
+--------------------
+Date: 5/8/2026
+Time: 17:0
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 2)
+--------------------
+Date: 5/8/2026
+Time: 17:1
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 3)
+--------------------
+Date: 5/8/2026
+Time: 17:1
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 4)
+--------------------
+Date: 5/8/2026
+Time: 17:1
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 5)
+--------------------
+Date: 5/8/2026
+Time: 17:2
+Phone Number: +55 19 99163-2230
+Message: Mensagem automática em loop! (Envio número 6)
+--------------------
