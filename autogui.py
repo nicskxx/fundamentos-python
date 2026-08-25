@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-mensagem = ("")
-quantidade = 10000
+mensagem = ("sei la")
+quantidade = 100
 
 intervalo = 0.1
 
